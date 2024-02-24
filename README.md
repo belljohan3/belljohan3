@@ -20,10 +20,16 @@ Here are some ideas to get you started:
   <img src="https://github.com/yourusername/yourusername/raw/main/banner.png" alt="Banner">
 </p>
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Johan Bell! 👋
 
 ## About Me
-I'm a passionate frontend developer who loves creating stunning user interfaces and crafting seamless user experiences. With a keen eye for design and a knack for code, I specialize in turning ideas into beautifully functional websites and web applications.
+I am a passionate and versatile web developer, capable of handling all stages of advanced web development. I have knowledge in UI, debugging and MVC programming. I currently work as a frontend developer at Tredco, an innovative construction company.
+
+ At Tredco, I participate in the development of a web application that helps construction team users. The app uses AI to generate quotes, manage customers and provide other features. Visit: https://tredco.no for more information. 
+
+Previously, I interned as a frontend developer at Flowcraft, where I also worked on a web application related to the construction industry. At the same time, I carried out several freelance projects, using tools such as Tailwind CSS, Directus and VueJs. I am also preparing my general baccalaureate in English language and literature at the Highschool Ngousso-Ngoulmekong.
+
+ I am motivated by continuous learning and improving my web development skills. I am able to quickly learn the latest tools and procedures in the field. I also have a good team spirit and a sense of the problem. My goal is to create effective, attractive web solutions tailored to user needs. I am always looking for new challenges and new opportunities to showcase my creativity and versatility.
 
 ## 🔭 I’m Currently Working On
 - Enhancing the UI/UX of [Project 1] 🚀
@@ -31,7 +37,7 @@ I'm a passionate frontend developer who loves creating stunning user interfaces 
 
 ## 🌱 I’m Currently Learning
 - Advanced JavaScript concepts 📚
-- Mastering React and Vue.js 🚀
+- Mastering Vue.js 🚀
 
 ## 💼 Skills
 <p align="center">
@@ -45,8 +51,8 @@ I'm a passionate frontend developer who loves creating stunning user interfaces 
 </p>
 
 ## 📫 How to Reach Me
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [belljohan3@hotmail.com]
+- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/johan-bell/)]
 
 ## ⚡ Fun Fact
 Did you know? I once built a website entirely using CSS Grid for layout!
