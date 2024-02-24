@@ -32,8 +32,7 @@ Previously, I interned as a frontend developer at Flowcraft, where I also worked
  I am motivated by continuous learning and improving my web development skills. I am able to quickly learn the latest tools and procedures in the field. I also have a good team spirit and a sense of the problem. My goal is to create effective, attractive web solutions tailored to user needs. I am always looking for new challenges and new opportunities to showcase my creativity and versatility.
 
 ## 🔭 I’m Currently Working On
-- Enhancing the UI/UX of [Project 1] 🚀
-- Building responsive layouts for [Project 2] 💻
+- Building a Hotel Booking system [Project 1] 🚀
 
 ## 🌱 I’m Currently Learning
 - Advanced JavaScript concepts 📚
@@ -51,9 +50,9 @@ Previously, I interned as a frontend developer at Flowcraft, where I also worked
 </p>
 
 ## 📫 How to Reach Me
-- Email: [[Hotmail](belljohan@hotmail.com)], [[Gmail](belljohan3@gmail.com)]
-- LinkedIn: [[in/johan-bell](https://www.linkedin.com/in/johan-bell/)]
-- Whatsapp: [[Business](https://wa.me/c/237654442399)]
+- Email: [Hotmail](belljohan@hotmail.com)], [[Gmail](belljohan3@gmail.com)
+- LinkedIn: [in/johan-bell](https://www.linkedin.com/in/johan-bell/)
+- Whatsapp: [Business](https://wa.me/c/237654442399)
 
 ## ⚡ Fun Fact
 Did you know? I once built a website entirely using CSS Grid for layout!
@@ -64,7 +63,7 @@ Did you know? I once built a website entirely using CSS Grid for layout!
 </p>
 
 ## 🌟 Featured Repositories
-- [[Vue Expense Tracker](https://github.com/belljohan3/vue-expense-tracker)]
-- [[Slider Effect](https://github.com/belljohan3/slider-effect)]
+- [Vue Expense Tracker](https://github.com/belljohan3/vue-expense-tracker)
+- [Slider Effect](https://github.com/belljohan3/slider-effect)
 
 Let's connect and create something amazing together! 😄
