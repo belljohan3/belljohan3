@@ -31,7 +31,7 @@ Previously, I interned as a frontend developer at Flowcraft, where I also worked
 
 ## 🔭 I’m Currently Working On
 - Building a Fullstack Hotel Booking system [Github Repository](https://github.com/belljohan3/booking-hotel-app) 🚀
-- Building a CMS for a non-profit organisation [Github Repository](https://github.com/belljohan3/luminary) 🚀
+- Building a CMS for a non-profit organisation [Github Repository](https://github.com/bccsa/luminary) 🚀
 
 ## 🌱 I’m Currently Learning
 - Advanced JavaScript concepts 📚
