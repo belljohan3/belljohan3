@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- Banner Image -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/yourusername/yourusername/raw/main/banner.png" alt="Banner">
-</p>
+</p>-->
 
 # Hi there, I'm Johan Bell! 👋
 
@@ -31,6 +31,7 @@ Previously, I interned as a frontend developer at Flowcraft, where I also worked
 
 ## 🔭 I’m Currently Working On
 - Building a Fullstack Hotel Booking system [Github Repository](https://github.com/belljohan3/booking-hotel-app) 🚀
+- Building a CMS for a non-profit organisation [Github Repository](https://github.com/belljohan3/luminary) 🚀
 
 ## 🌱 I’m Currently Learning
 - Advanced JavaScript concepts 📚
